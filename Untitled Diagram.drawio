@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T10:28:53.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="NB3agZlMRdWlP8tvG99b" version="15.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T10:45:08.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="cRzXrRG7Fbt4gdLPXkQD" version="15.0.5" type="github">
   <diagram id="AXgErbdqmW1uvMMUfdcA" name="Page-1">
-    <mxGraphModel dx="2493" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,11 +50,49 @@
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-18" value="Memorycache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-315" y="210" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-20" target="Sv1BnkRDJ85HCmsinTIL-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="145" />
+              <mxPoint x="380" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-121" value="触发CI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sv1BnkRDJ85HCmsinTIL-120">
+          <mxGeometry x="0.2395" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-22" value="Gitlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="171" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.39;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5" y="568" as="sourcePoint" />
+            <mxPoint x="-191.05000000000018" y="641" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5" y="608" />
+              <mxPoint x="-191" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-126" value="所有CI资源上传下载资源都是通过RC进行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sv1BnkRDJ85HCmsinTIL-122">
+          <mxGeometry x="0.5325" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-24" target="Sv1BnkRDJ85HCmsinTIL-132">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-125" value="Job 运行状态上报到sentry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sv1BnkRDJ85HCmsinTIL-123">
+          <mxGeometry x="0.3563" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="410" width="690" height="160" as="geometry" />
@@ -93,43 +131,28 @@
           <mxGeometry x="150" y="130" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="610" width="220" height="110" as="geometry" />
+          <mxGeometry x="-640" y="410" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-56" value="配置中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="610" width="70" height="20" as="geometry" />
+          <mxGeometry x="-565" y="410" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="610" width="220" height="110" as="geometry" />
+          <mxGeometry x="-337" y="646" width="300" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-60" value="Resource Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="610" width="105" height="20" as="geometry" />
+          <mxGeometry x="-232" y="646" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-62" value="CephFS NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="680" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="610" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-70" value="Jenkins Job 监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="610" width="105" height="20" as="geometry" />
+          <mxGeometry x="-317" y="716" width="260" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-71" value="Rsync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="650" width="80" height="20" as="geometry" />
+          <mxGeometry x="-317" y="676" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-72" value="Http Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="650" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-76" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="680" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-79" value="Sentry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="650" width="83.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-80" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="650" width="83.5" height="20" as="geometry" />
+          <mxGeometry x="-177" y="676" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-81" value="Apollo" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="-289" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="-590" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-84" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-215" y="155" width="80" height="35" as="geometry" />
@@ -143,6 +166,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-93" target="Sv1BnkRDJ85HCmsinTIL-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-542" y="50" />
+              <mxPoint x="240" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-136" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-542.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/mayssam/512/user-128.png;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="145" width="115" height="115" as="geometry" />
         </mxCell>
@@ -150,7 +186,7 @@
           <mxGeometry x="-470" y="220" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-102" value="提交代码，打Tag" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="-485" y="60" width="125" height="20" as="geometry" />
+          <mxGeometry x="-265" y="60" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-105" value="调用walle4-sidecar创建对应Job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="-215" y="380" width="175" height="20" as="geometry" />
@@ -160,6 +196,24 @@
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-109" value="拉取集群信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="285" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-131" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="646" width="300" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-132" value="Jenkins Job 监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="646" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-133" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="716" width="260" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-134" value="Sentry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="676" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-135" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="676" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-138" value="配置Walle 请求其他所有服务的信息&lt;br&gt;RC，SVN，Gitlab，Jenkins，DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="290" width="145" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
