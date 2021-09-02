@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T10:45:08.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="cRzXrRG7Fbt4gdLPXkQD" version="15.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T10:53:27.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7C7rsSRXPvZ0sHMvB5qf" version="15.0.5" type="github">
   <diagram id="AXgErbdqmW1uvMMUfdcA" name="Page-1">
-    <mxGraphModel dx="2465" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="255" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="255" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-4" value="CMDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -35,19 +35,19 @@
             <mxPoint x="120" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-340" y="90" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-11" value="Walle Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-280" y="100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-16" value="Walle UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-16" value="Walle UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-315" y="155" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-17" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-17" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-315" y="270" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-18" value="Memorycache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-18" value="Memorycache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-315" y="210" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-20" target="Sv1BnkRDJ85HCmsinTIL-24">
@@ -63,7 +63,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="90" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-22" value="Gitlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-340" y="410" width="690" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-25" value="Jenkins" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -112,49 +112,49 @@
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-28" target="Sv1BnkRDJ85HCmsinTIL-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-28" value="Jenkins-Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-28" value="Jenkins-Master" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-65" y="453" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-30" value="Linux Slaves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-30" value="Linux Slaves" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-140" y="523" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-31" value="MacOS Slaves" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-31" value="MacOS Slaves" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="20" y="523" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-50" value="SVN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-51" value="SVN HooK Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-51" value="SVN HooK Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-52" value="Gitlab WebHook API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-52" value="Gitlab WebHook API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="150" y="130" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-640" y="410" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-56" value="配置中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-565" y="410" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-337" y="646" width="300" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-60" value="Resource Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-232" y="646" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-62" value="CephFS NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-62" value="CephFS NAS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-317" y="716" width="260" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-71" value="Rsync" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-71" value="Rsync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-317" y="676" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-72" value="Http Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-72" value="Http Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-177" y="676" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-81" value="Apollo" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-81" value="Apollo" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-590" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-84" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-84" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-215" y="155" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-96" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sv1BnkRDJ85HCmsinTIL-93">
@@ -197,19 +197,19 @@
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-109" value="拉取集群信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="285" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-131" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-131" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="55" y="646" width="300" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-132" value="Jenkins Job 监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="646" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-133" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-133" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="75" y="716" width="260" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-134" value="Sentry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-134" value="Sentry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="75" y="676" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1BnkRDJ85HCmsinTIL-135" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sv1BnkRDJ85HCmsinTIL-135" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="215" y="676" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sv1BnkRDJ85HCmsinTIL-138" value="配置Walle 请求其他所有服务的信息&lt;br&gt;RC，SVN，Gitlab，Jenkins，DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
